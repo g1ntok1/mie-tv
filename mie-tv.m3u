@@ -1,0 +1,60 @@
+#EXTM3U
+#EXTINF:-1,RAI 1
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1767287766~exp=1767287916~acl=/*~hmac=2844be08cb6c05e678d7bc1a3d520d80f33ea62646662e3249fb8b88a6e4f316
+#EXTINF:-1,RAI 2
+https://streamcdnr17-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1767287983&tof=86400&tk2=c9f0fa679920a313d35c24a543eb710c415897e074899c322ef09b0ffdfc3296
+#EXTINF:-1,RAI 3
+https://streamcdnr17-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/playlist_ma.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1767288088&tof=86400&tk2=3ef4d26d1580157ff0b2cc56b950cc99b87479878b77a0bc2664c553340bf2b1
+#EXTINF:-1,RETE 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1,CANALE 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1,ITALIA 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1,LA 7
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1,TV 8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1,20
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1,RAI 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1,IRIS
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1,Rai5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1,Rai movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1,Rai Premium
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,27
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1,TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1,La 5
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1,QVC
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+#EXTINF:-1,Canale 21
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
+#EXTINF:-1,Canale 21 extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:-1,Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5
+#EXTINF:-1,Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1, Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1,DMAX
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1,Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1,Home & Garden TV
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1,MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
+
